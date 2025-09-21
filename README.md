@@ -309,7 +309,7 @@
 - Shows different specializations from same base class
 - Demonstrates independent evolution of derived classes
 
-## 51.cpp - Hybrid Inheritance (Diamond Problem Solution)
+## 51.cpp - Hybrid Inheritance
 - Demonstrates hybrid inheritance to solve the diamond problem
 - Base class `A` inherited virtually by `B` and `C`
 - Class `D` inherits from both `B` and `C`
